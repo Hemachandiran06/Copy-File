@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b51617cb-3688-4f08-b566-c9b4e5ddb2f5)# Copy-File
 ## AIM:
 To write a python program for copying the contents from one file to another file.
 ## EQUIPEMENT'S REQUIRED: 
